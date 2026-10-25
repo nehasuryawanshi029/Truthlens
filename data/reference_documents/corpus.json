@@ -1,0 +1,240 @@
+[
+  {
+    "id": "doc_sangli_ganapati_01",
+    "title": "Maharashtra Tourism Directory: Historic Ganapati Temple on the Banks of Krishna River, Sangli",
+    "url": "https://www.maharashtratourism.gov.in/attractions/ganapati-temple-sangli",
+    "publisher": "Maharashtra Tourism Development Corporation (MTDC)",
+    "publication_date": "2024-01-15",
+    "keywords": ["sangli", "ganapati mandir", "ganpati temple", "krishna river", "patwardhan", "black stone", "ghat", "temple", "hemadpanthi", "basalt"],
+    "passage": "The historic Ganapati Temple of Sangli is situated on the picturesque riverfront banks of the Krishna River in Ganapati Peth, Sangli, Maharashtra. Built in 1843 by Thorle Chintamanrao Patwardhan of the Sangli princely state, the sanctum is constructed from polished black basalt stone quarried from Jyotiba hills. It features an open sabhamandapa with carved dark stone pillars leading directly to stone riverfront bathing ghāts descending into the Krishna river.",
+    "related_image_id": "ref_sangli_ganapati_mandir",
+    "target_event": "mandir",
+    "target_locations": ["sangli", "maharashtra"],
+    "relationship_rules": {
+      "if_claimed_location": "pune",
+      "stance": "contradicts",
+      "reason": "The landmark depicted is the historic Ganapati Mandir in Sangli, Maharashtra, not Pune."
+    }
+  },
+  {
+    "id": "doc_sangli_ganapati_02",
+    "title": "District Gazetteer of Sangli: The Royal Black Stone Ganapati Temple at Ganapati Peth",
+    "url": "https://sangli.nic.in/places-of-interest/ganapati-mandir/",
+    "publisher": "District Collectorate, Sangli",
+    "publication_date": "2023-09-10",
+    "keywords": ["sangli", "ganapati", "mandir", "temple", "black basalt", "krishna river", "patwardhan", "ghat", "shikhara"],
+    "passage": "Sangli Ganapati Mandir stands as the premier cultural and spiritual landmark of Sangli city. The temple structure is famed for its authentic Hemadpanthi-influenced black stone architecture, ornate dark basalt carvings, prominent shikhara, and elevated stone steps running down to the Krishna river. Administrative and archaeological records confirm this riverside temple is in Sangli and is completely distinct from the commercial urban streetfront temples of Pune.",
+    "related_image_id": "ref_sangli_ganapati_mandir",
+    "target_event": "temple",
+    "target_locations": ["sangli", "maharashtra"],
+    "relationship_rules": {
+      "if_claimed_location": "pune",
+      "stance": "contradicts",
+      "reason": "Administrative and gazetteer records confirm this landmark is located in Sangli, not Pune."
+    }
+  },
+  {
+    "id": "doc_sangli_heritage_trust",
+    "title": "Sangli State Heritage Archives: Royal Patwardhan Ganapati Devasthan Trust Records",
+    "url": "https://sanglidevasthan.org/heritage-sanctum-architecture/",
+    "publisher": "Shri Ganapati Devasthan Trust Sangli",
+    "publication_date": "2023-12-05",
+    "keywords": ["sangli", "ganapati mandir", "temple", "patwardhan", "black stone", "krishna ghat", "heritage"],
+    "passage": "Constructed between 1811 and 1843 under the supervision of Thorle Chintamanrao Maharaj, the Sangli Ganapati Mandir features a distinct black basalt stone sanctum, an open carved sabhamandapa, and a stone archway directly overlooking the Krishna River bathing ghats. Historical records maintain that no temple of this Hemadpanthi basalt design with adjoining river ghat exists in Pune.",
+    "related_image_id": "ref_sangli_ganapati_mandir",
+    "target_event": "mandir",
+    "target_locations": ["sangli"],
+    "relationship_rules": {
+      "if_claimed_location": "pune",
+      "stance": "contradicts",
+      "reason": "Devasthan records corroborate the landmark's physical presence in Sangli."
+    }
+  },
+  {
+    "id": "doc_pune_dagdusheth_01",
+    "title": "Pune Municipal Tourism: Shreemant Dagdusheth Halwai Ganapati Temple, Budhwar Peth",
+    "url": "https://pmc.gov.in/en/dagadusheth-halwai-ganapati-temple",
+    "publisher": "Pune Municipal Corporation (PMC)",
+    "publication_date": "2024-03-20",
+    "keywords": ["pune", "dagdusheth", "ganapati", "mandir", "temple", "budhwar peth", "gold", "marble"],
+    "passage": "Shreemant Dagdusheth Halwai Ganapati Temple is located in the bustling commercial quarter of Budhwar Peth along Shivaji Road in central Pune. Established in 1893, the modern multi-story temple is renowned for its golden dome, ornate white marble sanctum, glass crystal chandeliers, and prime downtown streetfront position without river ghāts.",
+    "related_image_id": null,
+    "target_event": "temple",
+    "target_locations": ["pune"],
+    "relationship_rules": {
+      "if_claimed_location": "sangli",
+      "stance": "contradicts",
+      "reason": "Dagdusheth Halwai temple is located in central Pune."
+    }
+  },
+  {
+    "id": "doc_pune_kasba_01",
+    "title": "Heritage Archives of Pune: Shri Kasba Ganapati Mandir (Gramdaivat)",
+    "url": "https://kasbaganpatipune.org/heritage-and-history/",
+    "publisher": "Shri Kasba Ganapati Devasthan Trust",
+    "publication_date": "2023-11-05",
+    "keywords": ["pune", "kasba peth", "ganapati", "mandir", "gramdaivat", "wooden mandap"],
+    "passage": "Consecrated during the era of Chhatrapati Shivaji Maharaj and Rajmata Jijabai in 1639, Kasba Ganapati is the historic Gramdaivat (presiding deity) of Pune. Situated inside a historic residential enclave in Kasba Peth, the temple features traditional wooden pillar sabhamandapa architecture, distinct from stone riverside temples.",
+    "related_image_id": null,
+    "target_event": "temple",
+    "target_locations": ["pune"],
+    "relationship_rules": {
+      "if_claimed_location": "sangli",
+      "stance": "contradicts",
+      "reason": "Kasba Ganapati is located in Kasba Peth, Pune."
+    }
+  },
+  {
+    "id": "doc_mumbai_gateway_01",
+    "title": "Archaeological Survey of India: Gateway of India Monument, Colaba, Mumbai",
+    "url": "https://asi.nic.in/gateway-of-india-mumbai/",
+    "publisher": "Archaeological Survey of India (ASI)",
+    "publication_date": "2024-02-12",
+    "keywords": ["mumbai", "gateway of india", "monument", "harbour", "colaba", "basalt", "arch", "sea"],
+    "passage": "The Gateway of India is an iconic 26-meter yellow basalt triumphal arch built in 1924 facing the Arabian Sea on the Mumbai Harbour waterfront promenade in Colaba, southern Mumbai. The monument combines 16th-century Gujarati architectural elements with European triumphal style, standing directly on the sea front.",
+    "related_image_id": "ref_gateway_of_india",
+    "target_event": "monument",
+    "target_locations": ["mumbai"],
+    "relationship_rules": {
+      "if_claimed_location": "delhi",
+      "stance": "contradicts",
+      "reason": "The Gateway of India is situated in Mumbai, not Delhi."
+    }
+  },
+  {
+    "id": "doc_delhi_india_gate_01",
+    "title": "Delhi Tourism Official Directory: India Gate War Memorial, New Delhi",
+    "url": "https://delhitourism.gov.in/attractions/india-gate/",
+    "publisher": "Delhi Tourism and Transportation Development Corporation",
+    "publication_date": "2024-04-10",
+    "keywords": ["delhi", "india gate", "war memorial", "rajpath", "kartavya path", "sandstone", "arch"],
+    "passage": "India Gate is a 42-meter high memorial triumphal arch designed by Sir Edwin Lutyens, located along Kartavya Path in New Delhi. Built from pale red and yellow sandstone, it is surrounded by lush manicured lawns and fountains, distinct from the sea-facing basalt Gateway of India in Mumbai.",
+    "related_image_id": null,
+    "target_event": "monument",
+    "target_locations": ["delhi"],
+    "relationship_rules": {
+      "if_claimed_location": "mumbai",
+      "stance": "contradicts",
+      "reason": "India Gate is located in New Delhi, distinct from the Gateway of India in Mumbai."
+    }
+  },
+  {
+    "id": "doc_delhi_qutub_01",
+    "title": "UNESCO World Heritage Centre: Qutb Minar and its Monuments, Delhi",
+    "url": "https://whc.unesco.org/en/list/233/",
+    "publisher": "UNESCO World Heritage Centre",
+    "publication_date": "2023-12-01",
+    "keywords": ["delhi", "qutub minar", "qutb", "mehrauli", "red sandstone", "tower", "minaret"],
+    "passage": "Built in the early 13th century in Mehrauli, South Delhi, the red sandstone tower of Qutb Minar rises 72.5 meters. The fluted tapering minaret features projecting balconies supported by intricate muqarnas corbels. The surrounding archaeological precinct contains the Alai-Darwaza, Quwwat-ul-Islam mosque, and the 4th-century Iron Pillar.",
+    "related_image_id": "ref_qutub_minar",
+    "target_event": "monument",
+    "target_locations": ["delhi"],
+    "relationship_rules": {
+      "if_claimed_location": "mumbai",
+      "stance": "contradicts",
+      "reason": "Qutub Minar is located in South Delhi, not Mumbai."
+    }
+  },
+  {
+    "id": "doc_pune_flood_01",
+    "title": "Fact-Check: Five-year-old photograph from Mumbai floods falsely circulated as recent Pune deluge",
+    "url": "https://www.boomlive.in/fact-check/mumbai-rain-waterlogging-hindmata-shared-as-pune-floods-2019-photo-22891",
+    "publisher": "BOOM Live Fact Check",
+    "publication_date": "2024-07-28",
+    "keywords": ["pune", "mumbai", "flooding", "waterlogging", "dadar", "hindmata", "monsoon", "rain"],
+    "passage": "A reverse image search of the circulating photograph showing two men wading through chest-deep brown floodwaters beside a BEST bus revealed that the original image was captured by photojournalist Santosh Shinde in Hindmata, central Mumbai on July 26, 2019. The image does not depict Pune, where authorities reported normal municipal drainage without severe street flooding.",
+    "related_image_id": "ref_mumbai_flood_2019",
+    "target_event": "flooding",
+    "target_locations": ["pune", "mumbai"],
+    "relationship_rules": {
+      "if_claimed_location": "pune",
+      "stance": "contradicts",
+      "reason": "The photograph was taken in Mumbai in 2019, not Pune."
+    }
+  },
+  {
+    "id": "doc_pune_flood_02",
+    "title": "Monsoon Archive: Severe Waterlogging in Low-Lying Dadar and Hindmata Paralyzes City",
+    "url": "https://indianexpress.com/article/cities/mumbai/monsoon-deluge-hindmata-dadar-flooding-railways-july-2019/",
+    "publisher": "The Indian Express",
+    "publication_date": "2019-07-26",
+    "keywords": ["mumbai", "floods", "hindmata", "dadar", "best bus", "july 2019", "waterlogging"],
+    "passage": "Heavy incessant rains lashed central Mumbai on Friday, submerging Hindmata junction under nearly four feet of water. Municipal teams deployed high-capacity water pumps as commuters negotiated submerged roadways near Dr Babasaheb Ambedkar Road.",
+    "related_image_id": "ref_mumbai_flood_2019",
+    "target_event": "flooding",
+    "target_locations": ["mumbai"],
+    "relationship_rules": {
+      "if_claimed_location": "pune",
+      "stance": "contradicts",
+      "reason": "Corroborates that the visual event occurred in Mumbai in July 2019."
+    }
+  },
+  {
+    "id": "doc_pune_weather_current",
+    "title": "District Meteorological Advisory: Mild Showers Recorded in Pune Urban; Drainage Clear",
+    "url": "https://punemirror.com/pune/others/district-advisory-monsoon-update-drainage-clear/cid1710928.htm",
+    "publisher": "Pune Mirror",
+    "publication_date": "2026-10-15",
+    "keywords": ["pune", "rain", "weather", "drainage", "today", "recent"],
+    "passage": "Pune Municipal Corporation (PMC) emergency cell reported no road closures or high water accumulation across Shivajinagar, Kothrud, or Swargate. Light drizzle was recorded with 4.2mm precipitation, contradicting social media rumors of severe flooding in Pune.",
+    "related_image_id": null,
+    "target_event": "flooding",
+    "target_locations": ["pune"],
+    "relationship_rules": {
+      "if_claimed_location": "pune",
+      "stance": "contradicts",
+      "reason": "Direct municipal verification confirms no major flooding in Pune."
+    }
+  },
+  {
+    "id": "doc_cyclone_synthetic_01",
+    "title": "IMD Coastal Radar Bulletin: Clear Weather Across Eastern Seaboard; No Cyclonic System",
+    "url": "https://mausam.imd.gov.in/imd_latest/contents/cyclone_bulletin_archive.php",
+    "publisher": "India Meteorological Department (IMD)",
+    "publication_date": "2026-10-16",
+    "keywords": ["cyclone", "storm", "odisha", "coastal", "radar", "satellite", "clouds"],
+    "passage": "Doppler weather radar and INSAT-3D satellite imagery confirm normal barometric pressure with no cyclonic depression or organized convection over the Bay of Bengal or coastal Odisha. Visuals circulating online showing purple spiral vortex over beaches are synthetic and unsupported by observational data.",
+    "related_image_id": "ref_synthetic_cyclone",
+    "target_event": "cyclone",
+    "target_locations": ["odisha", "coastal"],
+    "relationship_rules": {
+      "if_claimed_location": "odisha",
+      "stance": "contradicts",
+      "reason": "Official meteorological satellite scans detect no storm; image exhibits synthetic artifacts."
+    }
+  },
+  {
+    "id": "doc_turkey_quake_01",
+    "title": "UN OCHA Situation Report: Search and Rescue Teams Deliver Emergency Food and Medical Kits in Kahramanmaraş",
+    "url": "https://reports.unocha.org/en/country/turkiye/card/earthquake-response-kahramanmaras-field-operations/",
+    "publisher": "UN Office for the Coordination of Humanitarian Affairs",
+    "publication_date": "2023-02-11",
+    "keywords": ["earthquake", "turkey", "kahramanmaras", "rescue", "relief", "food", "aid"],
+    "passage": "International urban search and rescue (USAR) contingents in coordination with AFAD deployed emergency relief centers in central Kahramanmaraş. First responders and volunteers distributed hot meals, thermal blankets, and essential medical supplies to displaced survivors amid freezing temperatures.",
+    "related_image_id": "ref_turkey_relief_2023",
+    "target_event": "earthquake",
+    "target_locations": ["turkey", "kahramanmaras", "syria"],
+    "relationship_rules": {
+      "if_claimed_location": "kahramanmaras",
+      "stance": "supports",
+      "reason": "Matches verified humanitarian response records and photograph date/location."
+    }
+  },
+  {
+    "id": "doc_paris_protest_01",
+    "title": "In Pictures: 'Gilets Jaunes' Demonstrators Gather on the Champs-Élysées in Paris",
+    "url": "https://www.lemonde.fr/politique/article/2018/11/24/gilets-jaunes-tensions-sur-les-champs-elysees-a-paris_5387995_823448.html",
+    "publisher": "Le Monde / AFP",
+    "publication_date": "2018-11-24",
+    "keywords": ["paris", "protest", "champs-elysees", "gilets jaunes", "yellow vests", "france"],
+    "passage": "Thousands of yellow-vest demonstrators blocked the Champs-Élysées on Saturday, November 24, 2018, waving French flags and burning barricades near the Arc de Triomphe. The iconic photograph by AFP photographer captures the tear gas clouds over the boulevard.",
+    "related_image_id": "ref_paris_yellow_vests_2018",
+    "target_event": "protest",
+    "target_locations": ["paris", "france"],
+    "relationship_rules": {
+      "if_claimed_time": "today",
+      "stance": "contradicts",
+      "reason": "Historical photograph from November 2018 shared as a current event."
+    }
+  }
+]

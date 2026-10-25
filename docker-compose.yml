@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - APP_ENV=production
+      - DATABASE_URL=sqlite:///./data/truthlens.db
+      - UPLOAD_DIR=./data/uploads
+      - SAMPLE_DIR=./data/samples
+      - REFERENCE_DOCS_DIR=./data/reference_documents
+      - ENABLE_EXTERNAL_WEB_SEARCH=false
+      - ENABLE_EXTERNAL_LLM=false
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
